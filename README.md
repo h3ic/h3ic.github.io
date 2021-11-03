@@ -1,5 +1,6 @@
 # Бухучёт
 https://h3ic.github.io
+<br>
 <i>expenses of your parties presented concisely</i>
 
 Приложение для учета расходов на активности и записи долгов друзей и коллег.
