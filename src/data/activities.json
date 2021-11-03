@@ -6,7 +6,8 @@
       "users_id": [
         1,
         2,
-        3
+        3,
+        5
       ],
       "items_id": [
         4
@@ -27,7 +28,8 @@
       "activity_name": "booze",
       "users_id": [
         1,
-        2
+        2,
+        5
       ],
       "items_id": [
         2,
@@ -41,7 +43,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ],
       "items_id": [
         1,

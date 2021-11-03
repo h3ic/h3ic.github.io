@@ -4,7 +4,7 @@
       "item_id": 1,
       "item_name": "avokado",
       "item_price": 50,
-      "bought_by": 1
+      "bought_by": 5
     },
     {
       "item_id": 2,
@@ -22,7 +22,7 @@
       "item_id": 4,
       "item_name": "lamp",
       "item_price": 100,
-      "bought_by": 1
+      "bought_by": 5
     },
     {
       "item_id": 5,
