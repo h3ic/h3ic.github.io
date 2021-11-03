@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "item_id": 1,
+      "item_name": "avokado",
+      "item_price": 50,
+      "bought_by": 1
+    },
+    {
+      "item_id": 2,
+      "item_name": "pivo",
+      "item_price": 70,
+      "bought_by": 2
+    },
+    {
+      "item_id": 3,
+      "item_name": "arbuz",
+      "item_price": 100,
+      "bought_by": 1
+    },
+    {
+      "item_id": 4,
+      "item_name": "lamp",
+      "item_price": 100,
+      "bought_by": 1
+    },
+    {
+      "item_id": 5,
+      "item_name": "ball",
+      "item_price": 70,
+      "bought_by": 1
+    },
+    {
+      "item_id": 6,
+      "item_name": "martini",
+      "item_price": 500,
+      "bought_by": 1
+    }
+  ]
+}

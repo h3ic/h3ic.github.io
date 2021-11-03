@@ -1,0 +1,160 @@
+:root {
+    --font-size: 1.1rem;
+}
+
+.App {
+    padding-left: 30px;
+    padding-top: 40px;
+    font-size: var(--font-size);
+}
+
+h1, h2 {
+    text-align: left;
+    margin: 20px;
+}
+
+.activity-header {
+}
+
+/* tables */
+
+.tables-container {
+    text-align: center;
+    min-width: 1100px;
+    padding-right: 600px;
+}
+
+.table-wrapper {
+}
+
+.table {
+    text-align: center;
+    margin: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 32px;
+    background-color: slategray;
+}
+
+.party-table {
+    background: #f1f1f1;
+}
+
+.activity-table {
+    background: antiquewhite;
+}
+
+/* table rows */
+
+.table-row {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: 0.2s;
+}
+
+.users-row {
+    height: 3rem;
+}
+
+.activity-row {
+}
+
+.item-row {
+}
+
+.total-row {
+}
+
+.activity-row:hover, .item-row:hover, .placeholder-row:hover {
+    background-color: #e1e1e1;
+}
+
+/* table cells */
+
+.table-cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    width: 80px;
+    max-width: 100px;
+    min-height: 2rem;
+}
+
+.header-cell {
+    font-weight: bold;
+}
+
+.header, .username {
+    width: 80px;
+    position: absolute;
+    overflow: hidden;
+}
+
+.activity-name {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.activity-name:hover {
+    color: fuchsia;
+}
+
+.add-button-cell {
+}
+
+.placeholder-cell {
+}
+
+.delete-button-cell {
+}
+
+.expense-cell {
+}
+
+.item-expense-cell {
+}
+
+.activity-expense-cell {
+}
+
+.checkbox-cell {
+}
+
+.radio-button-cell {
+}
+
+/* table buttons */
+
+.bi {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.bi:hover {
+    fill: fuchsia;
+}
+
+[type='checkbox'] {
+    margin: 0.5em;
+    transform: scale(1.2);
+}
+
+[type='radio'] {
+    margin: 0.5em;
+    transform: scale(1.2);
+}
+
+.check-button {
+    cursor: pointer;
+}
+
+.placeholder-check-button {
+    display: none;
+}
+
+*:focus {
+    outline: 0;
+}

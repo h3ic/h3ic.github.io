@@ -1,0 +1,52 @@
+{
+  "activities": [
+    {
+      "activity_id": 1,
+      "activity_name": "son",
+      "users_id": [
+        1,
+        2,
+        3
+      ],
+      "items_id": [
+        4
+      ]
+    },
+    {
+      "activity_id": 2,
+      "activity_name": "sport",
+      "users_id": [
+        1
+      ],
+      "items_id": [
+        5
+      ]
+    },
+    {
+      "activity_id": 3,
+      "activity_name": "booze",
+      "users_id": [
+        1,
+        2
+      ],
+      "items_id": [
+        2,
+        6
+      ]
+    },
+    {
+      "activity_id": 4,
+      "activity_name": "veggies",
+      "users_id": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "items_id": [
+        1,
+        3
+      ]
+    }
+  ]
+}
